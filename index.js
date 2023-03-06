@@ -1,6 +1,5 @@
 // const express= require("express"); ye purana tarika
 import express from 'express';      //package.json me type module krna hai
-
 // esme .js compulsory
 import Connection from './database/db.js';
 
